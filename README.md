@@ -27,6 +27,8 @@ This repository is aimed at containing all relevant code produced during an ongo
 structuring this repository such that the code corresponding to the various aspects of the research are clearly stated.
 The code is developed on a private repository, and once ready for publication, added to this (public) repository.
 
+Every *sub-repository* contains its own elaborate, case-specific `README.md` to assist in its use.
+
 # How to cite
 As this is a living repository, the exact way of citing depends on the version/release of the code used, which is included
 in the respective publications for which they are used.
