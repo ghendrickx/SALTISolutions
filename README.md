@@ -42,23 +42,4 @@ As this is a living repository, the exact way of citing depends on the version/r
 in the respective publications for which they are used.
 1.  Pre-release: [`v0.1-beta`](https://github.com/ghendrickx/SALTISolutions/tree/v0.1-beta)
     > Hendrickx, G.G. (2022). SALTISolutions: A neural network for estuarine salt dynamics. 4TU.ResearchData. Software.
-    [doi:10.4121/19161752](https://doi.org/10.4121/19161752).
-1.  Release: [`v1.0`](https://github.com/ghendrickx/SALTISolutions/tree/v1.0)
-    > Hendrickx, G.G. (2022). SALTISolutions: A neural network for estuarine salt dynamics. 4TU.ResearchData. Software.
-    [doi:10.4121/19161752](https://doi.org/10.4121/19161752).
-    
-This repository is part of/used in the following publications:
-*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), and 
-    [Antol&iacute;nez, J.A.&Aacute;](https://orcid.org/0000-0002-0694-4817). 
-    (TBD). TBD. [doi:TBD]().
-    *   [v0.1-beta](https://doi.org/10.4121/19161752)
-    *   [v1.0](https://doi.org/10.4121/19161752)
-    
-*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), 
-    [Antol&iacute;nez, J.A.&Aacute;](https://orcid.org/0000-0002-0694-4817), 
-    [S.G.J. Aarninkhof](https://orcid.org/0000-0002-4591-0257), 
-    [Y. Huismans](https://orcid.org/0000-0001-6537-6111), 
-    [W.M. Kranenburg](https://orcid.org/0000-0002-4736-7913), and 
-    [P.M.J. Herman](https://orcid.org/0000-0003-2188-6341).
-    (TBD). TBD. [doi:TBD]().
-    *   [v1.1]()
+    [doi:10.4121/19161752](https://doi.org/10.4121/19161752.v1).
