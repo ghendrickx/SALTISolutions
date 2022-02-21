@@ -10,9 +10,9 @@ game. For more information, click
 ## Working package 7.1
 Working package 7.1 (WP 7.1) of SALTISolutions focuses on the development of nature-based solutions to mitigate salt 
 intrusion. This PhD research consists of three phases:
-1. Sensitivity analysis of salt intrusion;
-1. In-depth physical assessment(s) of nature-based solution(s);
-1. Multidisciplinary assessment of nature-based solutions.
+1.  Sensitivity analysis of salt intrusion;
+1.  In-depth physical assessment(s) of nature-based solution(s);
+1.  Multidisciplinary assessment of nature-based solutions.
 
 **Phase 1: Sensitivity analysis:** The sensitivity analysis determines the sensitivity of the salt intrusion in an estuary to 
 thirteen variables assessed (three boundary conditions, and ten geometric characteristics). Due to the complexity of the
@@ -29,14 +29,22 @@ The code is developed on a private repository, and once ready for publication, a
 
 Every *sub-repository* contains its own elaborate, case-specific `README.md` to assist in its use. The following
 *sub-repositories* are included:
-1. [Neural network](https://github.com/ghendrickx/SALTISolutions/tree/master/1_neural_network)
+1.  [Neural network](/tree/feature/readme-documentation/1_neural_network)
 
 ## References
 As this is a living repository, the exact way of citing depends on the version/release of the code used, which is included
 in the respective publications for which they are used.
-* <release/version + 4TU-DOI[as link]>
-    * <publication-1 + DOI[as link]>
-    * <publication-2 + DOI[as link]>
+1.  Pre-release: [`v0.1-beta`](/tree/v0.1-beta)
+    > Hendrickx, G.G. (2022). SALTISolutions: A neural network for estuarine salt dynamics. 4TU.ResearchData. Software.
+    [doi:10.4121/19161752](https://doi.org/10.4121/19161752).
+1.  Release: [`v1.0`](/tree/v1.0)
+    > Hendrickx, G.G. (2022). SALTISolutions: A neural network for estuarine salt dynamics. 4TU.ResearchData. Software.
+    [doi:10.4121/19161752](https://doi.org/10.4121/19161752).
+    
+This repository is part of/used in the following publications:
+*   Hendrickx, G.G., and Antol&iacute;nez, J.A.&Aacute;. (TBD). TBD. [doi:TBD]().
+    *   [v0.1-beta](https://doi.org/10.4121/19161752)
+    *   [v1.0](https://doi.org/10.4121/19161752)
 
 ## Author
 Gijs G. Hendrickx 
