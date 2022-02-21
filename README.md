@@ -27,11 +27,18 @@ This repository is aimed at containing all relevant code produced during an ongo
 structuring this repository such that the code corresponding to the various aspects of the research are clearly stated.
 The code is developed on a private repository, and once ready for publication, added to this (public) repository.
 
-Every *sub-repository* contains its own elaborate, case-specific `README.md` to assist in its use.
+Every *sub-repository* contains its own elaborate, case-specific `README.md` to assist in its use. The following
+*sub-repositories* are included:
+1. [Neural network](https://github.com/ghendrickx/SALTISolutions/tree/master/1_neural_network)
 
-# How to cite
+## References
 As this is a living repository, the exact way of citing depends on the version/release of the code used, which is included
 in the respective publications for which they are used.
 * <release/version + 4TU-DOI[as link]>
     * <publication-1 + DOI[as link]>
     * <publication-2 + DOI[as link]>
+
+## Author
+Gijs G. Hendrickx 
+[![alt text](https://camo.githubusercontent.com/e1ec0e2167b22db46b0a5d60525c3e4a4f879590a04c370fef77e6a7e00eb234/68747470733a2f2f696e666f2e6f726369642e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f31312f6f726369645f31367831362e706e67) 0000-0001-9523-7657](https://orcid.org/0000-0001-9523-7657)
+(*Delft University of Technology*)
