@@ -4,8 +4,8 @@ consisting of approximately 2,000 simulations with
 [Delft3D Flexible Mesh](https://www.deltares.nl/en/software/delft3d-flexible-mesh-suite/) (specifically the 
 [D-Flow module](https://www.deltares.nl/en/software/module/d-flow-flexible-mesh/)).
 
-The neural network is accessible via a web-API that can be locally hosted by running `api.py`. Efforts are made to host
-this web-API publicly.
+The neural network is accessible via a web-API that can be locally hosted by running [`api.py`](api.py). Efforts are 
+made to host this web-API publicly.
 
 ## Requirements
 This sub-repository has the following requirements (see also [`requirements.txt`](requirements.txt)):
@@ -21,7 +21,8 @@ This sub-repository has the following requirements (see also [`requirements.txt`
 In addition, the [`utils`](../utils)-folder is required for the functioning of the `neural_network` (i.e. the web-API).
 
 ## Structure
-The neural network and web-API are located in the folders `machine_learning` and `application`, respectively:
+The neural network and web-API are located in the folders [`machine_learning`](machine_learning) and 
+[`application`](application), respectively:
 ```
 +-- neural_network/
     +-- application/
@@ -38,8 +39,8 @@ The neural network and web-API are located in the folders `machine_learning` and
         +-- neural_network.py
     +-- api.py
 ```
-For the use of the web-API, `api.py` must be executed with `Python`. This provides a link to a local-host, which allows
-to use the neural network locally in a web-browser.
+For the use of the web-API, [`api.py`](api.py) must be executed with `Python`. This provides a link to a local-host, 
+which allows to use the neural network locally in a web-browser.
 
 ## Author
 Gijs G. Hendrickx 
