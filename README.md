@@ -41,11 +41,17 @@ All sub-repositories work as stand-alone sub-packages except their use of the [`
 otherwise.
 
 ## References
-As this is a living repository, the exact way of citing depends on the version/release of the code used, which is included
-in the respective publications for which they are used.
-1.  Pre-release: [`v0.1-beta`](https://github.com/ghendrickx/SALTISolutions/tree/v0.1-beta)
-    > Hendrickx, G.G. (2022). SALTISolutions: A neural network for estuarine salt dynamics. 4TU.ResearchData. Software.
-    [doi:10.4121/19161752](https://doi.org/10.4121/19161752.v1).
+When using this repository, please cite accordingly:
+> Hendrickx, G.G. (2022). SALTISolutions: A neural network for estuarine salt dynamics. 4TU.ResearchData. Software.
+[doi:10.4121/19161752](https://doi.org/10.4121/19161752).
+
+As this is a living repository, please be aware of the version used. Although future releases are expected not to 
+conflict with previous releases, no guarantees are given.
+    
+### Releases
+1.  Pre-release: [`v0.1-beta`](https://doi.org/10.4121/19161752.v1)
+    *   Basic utilities: [`utils`](utils).
+    *   Neural network supported with web-API: [`neural_network`](neural_network).
 
 ## Structure
 The structure of the repository consists of sub-repositories and a utilisation-folder (`utils`) containing objects and
