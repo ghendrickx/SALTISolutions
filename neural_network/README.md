@@ -9,14 +9,14 @@ made to host this web-API publicly.
 
 ## Requirements
 This sub-repository has the following requirements (see also [`requirements.txt`](requirements.txt)):
-*   dash==2.0.0
-*   numpy==1.19.4
-*   pandas==1.1.4
-*   joblib==1.0.1
-*   Shapely==1.8.0
-*   torch==1.9.0
-*   plotly==5.5.0
-*   scikit_learn==1.0.2
+*   `dash==2.0.0`
+*   `numpy==1.19.4`
+*   `pandas==1.1.4`
+*   `joblib==1.0.1`
+*   `Shapely==1.8.0`
+*   `torch==1.9.0`
+*   `plotly==5.5.0`
+*   `scikit_learn==0.24.2`
 
 In addition, the [`utils`](../utils)-folder is required for the functioning of the `neural_network` (i.e. the web-API).
 
