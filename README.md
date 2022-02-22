@@ -51,8 +51,8 @@ methods used across the board.
 +-- neural_network/
     +-- application/
         +-- __init__.py
-        +-- components.py
         +-- app.py
+        +-- components.py
     +-- machine_learning/
         +-- _data/
             +-- __init__.py
@@ -64,4 +64,6 @@ methods used across the board.
     +-- api.py
 +-- utils/
     +-- __init__.py
+    +-- data_conv.py
+    +-- files_dirs.py
 ```

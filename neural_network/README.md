@@ -27,8 +27,8 @@ The neural network and web-API are located in the folders `machine_learning` and
 +-- neural_network/
     +-- application/
         +-- __init__.py
-        +-- components.py
         +-- app.py
+        +-- components.py
     +-- machine_learning/
         +-- _data/
             +-- __init__.py
