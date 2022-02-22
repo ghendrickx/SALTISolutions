@@ -37,7 +37,10 @@ The neural network and web-API are located in the folders [`machine_learning`](m
         +-- __init__.py
         +-- _backend.py
         +-- neural_network.py
+    +-- __init__.py
     +-- api.py
+    +-- README.md
+    +-- requirements.txt
 ```
 For the use of the web-API, [`api.py`](api.py) must be executed with `Python`. This provides a link to a local-host, 
 which allows to use the neural network locally in a web-browser.
