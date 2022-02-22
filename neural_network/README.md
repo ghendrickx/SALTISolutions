@@ -48,11 +48,16 @@ Gijs G. Hendrickx
 (*Delft University of Technology*)
 
 ## References
-If you would like to (re)use the code, please cite accordingly:
-1.  Pre-release: [`v0.1-beta`](https://github.com/ghendrickx/SALTISolutions/tree/v0.1-beta/neural_network)
+When using this repository, please cite accordingly:
     > Hendrickx, G.G. (2022). SALTISolutions: A neural network for estuarine salt dynamics. 4TU.ResearchData. Software.
-    [doi:10.4121/19161752](https://doi.org/10.4121/19161752.v1).
+    [doi:10.4121/19161752](https://doi.org/10.4121/19161752).
 
 ### Version-control
 The neural network, and so the web-API, are subject to updates. These updates are reflected by different versions of the
 repository.
+
+### Releases
+The releases that affected this sub-repository are:
+1.  Pre-release: [`v0.1-beta`](https://doi.org/10.4121/19161752.v1)
+
+For more information on the different releases, see the [main-repository](../README.md#Releases).
