@@ -37,7 +37,7 @@ Every sub-repository contains its own elaborate, case-specific `README.md` to as
 sub-repositories are included:
 1.  [Neural network](neural_network)
 
-All sub-repositories work as stand-alone sub-packages except their use of the `utils`-folder, and if not stated 
+All sub-repositories work as stand-alone sub-packages except their use of the [`utils`](utils)-folder, and if not stated 
 otherwise.
 
 ## References
@@ -70,3 +70,6 @@ methods used across the board.
     +-- data_conv.py
     +-- files_dirs.py
 ```
+
+## License
+This repository is licensed under [`Apache License 2.0`](LICENSE).
