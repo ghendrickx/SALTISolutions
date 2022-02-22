@@ -1,3 +1,8 @@
+"""
+Public research repository of SALTISolutions, working package 7.1. For more details, see the README.txt.
+
+Author: Gijs G. Hendrickx
+"""
 from setuptools import setup
 
 with open('README.md', 'r') as f:
