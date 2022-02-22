@@ -1,5 +1,5 @@
 """
-Components used in the online application.
+Components used in the online application; stored separately for readability of both files.
 
 Author: Gijs G. Hendrickx
 """

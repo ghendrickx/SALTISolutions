@@ -14,12 +14,11 @@ import dash.dependencies as dep
 
 from neural_network.application.components import AppEstuary, input_check, EstuaryType
 from neural_network.machine_learning.neural_network import NeuralNetwork
-# from neural_network.machine_learning._backend import _INPUT_VARS
 
-app = dash.Dash(__name__)
+APP = dash.Dash(__name__)
 
 # neural network
-nn = NeuralNetwork()
+NN = NeuralNetwork()
 
 # data processing
 _UNITS_VARS = {
@@ -140,7 +139,7 @@ for p in _INPUT_VARS:
         )
     ])
 
-app.layout = html.Div([
+APP.layout = html.Div([
     html.H1('Estuarine dynamics: Neural network'),
 
     html.H2('Input'),
@@ -172,7 +171,7 @@ app.layout = html.Div([
 ])
 
 
-@app.callback(
+@APP.callback(
     [
         dep.Output(component_id='output', component_property='children'),
         dep.Output(component_id='warning', component_property='children')
@@ -202,7 +201,7 @@ def nn_output(
     )
     classification = EstuaryType(estuary)
 
-    length, variability = nn.single_predict(**args)[['L', 'V']].values[0]
+    length, variability = NN.single_predict(**args)[['L', 'V']].values[0]
     output = [
         html.P(f'Salt intrusion length: {80 * length:.1f} [km]'),
         # html.P(f'Salt variability: {variability:.2f}'),
@@ -215,7 +214,7 @@ def nn_output(
     return output, None
 
 
-@app.callback(
+@APP.callback(
     dep.Output(component_id='fig-estuary', component_property='figure'),
     [dep.Input(component_id=arg, component_property='value') for arg in ['figure-type'] + _INPUT_VARS]
 )
@@ -281,7 +280,7 @@ def update_figure(
             )
         )
     elif fig_option == 'salt':
-        salt = nn.single_predict(
+        salt = NN.single_predict(
             tidal_range=tidal_range, surge_level=surge_level, river_discharge=river_discharge,
             channel_depth=channel_depth, channel_width=channel_width, channel_friction=channel_friction,
             convergence=convergence, flat_depth_ratio=flat_depth_ratio, flat_width=flat_width,
@@ -356,4 +355,4 @@ def update_figure(
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    APP.run_server(debug=True)
