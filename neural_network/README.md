@@ -49,8 +49,8 @@ Gijs G. Hendrickx
 
 ## References
 When using this repository, please cite accordingly:
-    > Hendrickx, G.G. (2022). SALTISolutions: A neural network for estuarine salt dynamics. 4TU.ResearchData. Software.
-    [doi:10.4121/19161752](https://doi.org/10.4121/19161752).
+> Hendrickx, G.G. (2022). SALTISolutions: A neural network for estuarine salt dynamics. 4TU.ResearchData. Software.
+[doi:10.4121/19161752](https://doi.org/10.4121/19161752).
 
 ### Version-control
 The neural network, and so the web-API, are subject to updates. These updates are reflected by different versions of the
