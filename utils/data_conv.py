@@ -1,5 +1,5 @@
 """
-Export and import files.
+Export and import data/files.
 
 Author: Gijs G. Hendrickx
 """
@@ -14,12 +14,12 @@ LOG = logging.getLogger(__name__)
 
 
 def _default_file_name(file_name, default, extension=None):
-    """Use default file-name if none is defined. The extension is based on the default file-name provided if not
+    """Use default file name if none is defined. The extension is based on the default file name provided if not
     stated explicitly.
 
-    :param file_name: file-name
-    :param default: default file-name
-    :param extension: file-extension, defaults to None
+    :param file_name: file name
+    :param default: default file name
+    :param extension: file extension, defaults to None
 
     :type file_name: str
     :type default: str
@@ -28,22 +28,23 @@ def _default_file_name(file_name, default, extension=None):
     :return: file name
     :rtype: str
     """
-    # return default file-name
+    # return default file name
     if file_name is None:
-        LOG.info(f'Default file-name used: {default}')
+        LOG.info(f'Default file name used: {default}')
         return default
 
-    # determine file-extension
+    # determine file extension
     if extension is None:
         extension = f'.{default.split(".")[-1]}'
 
-    # return file-name
+    # return file name
     if not file_name.endswith(extension):
         return f'{file_name}{extension}'
     return file_name
 
 
 class _DataConversion:
+    """Parent-class for exporting and importing data/files."""
     _wd = None
 
     def __init__(self, wd=None):
@@ -56,7 +57,7 @@ class _DataConversion:
     def _log(self, file_name):
         """Log file exported/imported.
 
-        :param file_name: file-name
+        :param file_name: file name
         :type file_name: str
         """
         LOG.info(f'File {self.__class__.__name__.lower()}ed\t:\t{self._wd.config_dir(file_name)}')
@@ -71,6 +72,7 @@ class _DataConversion:
 
 
 class Export(_DataConversion):
+    """Exporting data/files."""
     _wd = None
 
     def to_csv(self, data, file_name=None, **kwargs):
@@ -128,6 +130,7 @@ class Export(_DataConversion):
 
 
 class Import(_DataConversion):
+    """Importing data/files."""
     _wd = None
 
     def from_gz(self, file_name=None):
@@ -148,15 +151,16 @@ class Import(_DataConversion):
         return scaler
 
     def from_pkl(self, model, file_name=None):
-        """
+        """Load previously trained neural network to (re-)use from a *.pkl-file.
 
-        :param model:
-        :param file_name:
+        :param model: neural network design
+        :param file_name: file name
 
         :type model: torch.nn.Module
         :type file_name: str, optional
 
-        :return:
+        :return: trained neural network
+        :rtype: torch.nn.Module
         """
         file_name = _default_file_name(file_name, default='nn_default.pkl')
 
