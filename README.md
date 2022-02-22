@@ -43,3 +43,25 @@ in the respective publications for which they are used.
 1.  Pre-release: [`v0.1-beta`](https://github.com/ghendrickx/SALTISolutions/tree/v0.1-beta)
     > Hendrickx, G.G. (2022). SALTISolutions: A neural network for estuarine salt dynamics. 4TU.ResearchData. Software.
     [doi:10.4121/19161752](https://doi.org/10.4121/19161752.v1).
+
+## Structure
+The structure of the repository consists of sub-repositories and a utilisation-folder (`utils`) containing objects and
+methods used across the board.
+```
++-- neural_network/
+    +-- application/
+        +-- __init__.py
+        +-- components.py
+        +-- app.py
+    +-- machine_learning/
+        +-- _data/
+            +-- __init__.py
+            +-- nn_default.pkl
+            +-- nn_scaler.gz
+        +-- __init__.py
+        +-- _backend.py
+        +-- neural_network.py
+    +-- api.py
++-- utils/
+    +-- __init__.py
+```
