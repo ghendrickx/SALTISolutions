@@ -12,9 +12,9 @@ from dash import dcc
 from dash import html
 import dash.dependencies as dep
 
-from neural_network.application._components import AppEstuary, input_check, EstuaryType
+from neural_network.application.components import AppEstuary, input_check, EstuaryType
 from neural_network.machine_learning.neural_network import NeuralNetwork
-from neural_network.machine_learning._backend import _INPUT_VARS
+# from neural_network.machine_learning._backend import _INPUT_VARS
 
 app = dash.Dash(__name__)
 
@@ -37,6 +37,7 @@ _UNITS_VARS = {
     'meander_amplitude': 'm',
     'meander_length': 'm',
 }
+_INPUT_VARS = list(_UNITS_VARS.keys())
 _SLIDER_DEFAULT_SETTINGS = {
     'updatemode': 'drag',
     'tooltip': {

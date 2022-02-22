@@ -10,8 +10,8 @@ import logging
 import torch as torch
 from sklearn.model_selection import train_test_split
 
-from modules.filing import Export, Import
-from modules.utils import DirConfig
+from utils.files_dirs import DirConfig
+from utils.data_conv import Export, Import
 
 DEVICE = 'cpu'
 LOG = logging.getLogger(__name__)

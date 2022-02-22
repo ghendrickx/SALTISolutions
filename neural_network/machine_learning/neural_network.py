@@ -9,10 +9,9 @@ import logging
 
 import torch
 
-from pre_processing.check import physical_input_check
-
-from modules.filing import Import
-from modules.utils import DirConfig
+from neural_network.application.components import input_check
+from utils.files_dirs import DirConfig
+from utils.data_conv import Import
 
 from neural_network.machine_learning._backend import MLP, InputData, _INPUT_VARS, _OUTPUT_VARS, DEVICE, WD
 
@@ -162,7 +161,7 @@ class NeuralNetwork:
         input_data = [v for k, v in locals().items() if k in self._input_vars]
 
         # physical input check
-        physical_input_check(False, *input_data, grid_limits=False)
+        input_check(*input_data)
 
         # normalise data
         norm_input = InputData.normalise([input_data])
@@ -185,7 +184,7 @@ class NeuralNetwork:
         :rtype: pandas.DataFrame
         """
         # physical input check
-        data.apply(lambda row: physical_input_check(False, *row[_INPUT_VARS], grid_limits=False), axis=1)
+        data.apply(lambda row: input_check(*row[_INPUT_VARS]), axis=1)
 
         # normalise data
         norm_data = InputData.normalise(data)
@@ -288,7 +287,7 @@ class NeuralNetwork:
             """
             try:
                 # model configuration check: physical soundness
-                physical_input_check(False, *args, grid_limits=False)
+                input_check(*args)
             except ValueError:
                 # model configuration check: failed
                 LOG.info(f'Physical input check failed: {args}')
