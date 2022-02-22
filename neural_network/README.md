@@ -24,13 +24,13 @@ This sub-repository has the following requirements:
 ## Structure
 The neural network and web-API are located in the folders `machine_learning` and `application`, respectively:
 ```
-+-- 1_neural_network
-    +-- application
++-- neural_network/
+    +-- application/
         +-- __init__.py
-        +-- _components.py
+        +-- components.py
         +-- app.py
-    +-- machine_learning
-        +-- _data
+    +-- machine_learning/
+        +-- _data/
             +-- __init__.py
             +-- nn_default.pkl
             +-- nn_scaler.gz
