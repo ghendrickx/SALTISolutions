@@ -18,7 +18,7 @@ This sub-repository has the following requirements (see also [`requirements.txt`
 *   plotly==5.5.0
 *   scikit_learn==1.0.2
 
-In addition, the `utils`-folder is required for the functioning of the `neural_network` (i.e. the web-API).
+In addition, the [`utils`](../utils)-folder is required for the functioning of the `neural_network` (i.e. the web-API).
 
 ## Structure
 The neural network and web-API are located in the folders `machine_learning` and `application`, respectively:
