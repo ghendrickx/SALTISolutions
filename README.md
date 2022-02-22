@@ -35,7 +35,10 @@ Gijs G. Hendrickx
 ## Sub-repositories
 Every sub-repository contains its own elaborate, case-specific `README.md` to assist in its use. The following
 sub-repositories are included:
-1.  [Neural network](https://github.com/ghendrickx/SALTISolutions/tree/master/neural_network)
+1.  [Neural network](neural_network)
+
+All sub-repositories work as stand-alone sub-packages except their use of the `utils`-folder, and if not stated 
+otherwise.
 
 ## References
 As this is a living repository, the exact way of citing depends on the version/release of the code used, which is included
