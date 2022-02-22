@@ -49,7 +49,7 @@ As this is a living repository, please be aware of the version used. Although fu
 conflict with previous releases, no guarantees are given.
     
 ### Releases
-1.  Pre-release: [`v0.1-beta`](https://doi.org/10.4121/19161752.v1)
+1.  **Pre-release: [`v0.1-beta`](https://doi.org/10.4121/19161752.v1)**
     *   Basic utilities: [`utils`](utils).
     *   Neural network supported with web-API: [`neural_network`](neural_network).
 
