@@ -10,6 +10,9 @@ LOG = logging.getLogger(__name__)
 
 
 class DirConfig:
+    """Configuring directories and files in a robust and flexible manner, allowing to store a common working directory
+    to/from multiple files are exported/imported.
+    """
     __base_dirs = ('', 'C:', 'D:', 'P:', 'U:')
 
     def __init__(self, *home_dir, create_dir=True):
