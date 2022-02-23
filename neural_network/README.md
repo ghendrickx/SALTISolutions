@@ -18,7 +18,32 @@ This sub-repository has the following requirements (see also [`requirements.txt`
 *   `plotly==5.5.0`
 *   `scikit_learn==0.24.2`
 
+For the installation of `torch`, please look at there [installation guide](https://pytorch.org/get-started/locally/);
+the installation of `torch` is slightly different from other Python-packages for which a `pip install` suffices. Also
+note that `torch` is only supported for Python 3.7-3.9, and not for Python 2.x (or 3.10).
+
 In addition, the [`utils`](../utils)-folder is required for the functioning of the `neural_network` (i.e. the web-API).
+
+## Usage
+For the use of the web-API, [`api.py`](api.py) must be executed with Python. This provides a link to a local-host, 
+which allows to use the neural network locally in a web-browser.
+
+To use the web-API, the following steps are required:
+1.  Install all the requirements (see [*Requirements*](#Requirements)).
+1.  Open a Python IDE (e.g. PyCharm) or the command line.
+1.  Run `api.py` (or `/neural_network/api.py`).
+
+When running from the command line, you can either (1) first change the directory (`cd`) to the repository and 
+subsequently run `api.py`; or (2) run `api.py` from any location by including the full directory to the file:
+```bash
+# option 1
+cd path/to/repository
+python neural_network/api.py
+```
+```bash
+# option 2
+python path/to/repository/neural_network/api.py
+```
 
 ## Structure
 The neural network and web-API are located in the folders [`machine_learning`](machine_learning) and 
@@ -42,8 +67,6 @@ The neural network and web-API are located in the folders [`machine_learning`](m
     +-- README.md
     +-- requirements.txt
 ```
-For the use of the web-API, [`api.py`](api.py) must be executed with `Python`. This provides a link to a local-host, 
-which allows to use the neural network locally in a web-browser.
 
 ## Author
 Gijs G. Hendrickx 
