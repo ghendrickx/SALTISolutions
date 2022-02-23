@@ -27,7 +27,8 @@ class NeuralNetwork:
     _input_vars = _INPUT_VARS
     _output_vars = _OUTPUT_VARS
 
-    _reduced_output_vars = None
+    _reduced_output_vars = 'L'
+    _de_norm = {'L': 8e4, 'V': 30}
 
     def __init__(self, neural_network=None):
         """Loads trained neural network, which is stored inside the package, by default. When a neural network is
@@ -117,6 +118,17 @@ class NeuralNetwork:
     def fit_custom_neural_network(self, epochs, optimiser, loss_function):
         raise NotImplementedError
 
+    def _de_normalise(self, output):
+        """De-normalise output data.
+
+        :param output: normalised output data
+        :type output: pandas.DataFrame
+
+        :return: de-normalised output data
+        :rtype: pandas.DataFrame
+        """
+        return output * self._de_norm
+
     def single_predict(
             self, tidal_range, surge_level, river_discharge, channel_depth, channel_width, channel_friction,
             convergence, flat_depth_ratio, flat_width, flat_friction, bottom_curvature, meander_amplitude,
@@ -172,7 +184,8 @@ class NeuralNetwork:
         df = pd.DataFrame(data=y.detach().cpu(), columns=self._output_vars, dtype=float)
 
         # return output estimation
-        return df[self.output]
+        out = self._de_normalise(df)
+        return out[self.output] if len(self.output) > 1 else out[self.output].values[0]
 
     def predict(self, data):
         """Predict output.
@@ -197,7 +210,8 @@ class NeuralNetwork:
         df = pd.DataFrame(data=y.detach().cpu(), columns=self._output_vars, dtype=float)
 
         # return selected output
-        return df[self.output]
+        out = self._de_normalise(df)
+        return out[self.output]
 
     def predict_from_file(self, file_name, directory=None, **kwargs):
         """Predict output based on input data from a file.
@@ -223,7 +237,7 @@ class NeuralNetwork:
             self, tidal_range=None, surge_level=None, river_discharge=None, channel_depth=None, channel_width=None,
             channel_friction=None, convergence=None, flat_depth_ratio=None, flat_width=None, flat_friction=None,
             bottom_curvature=None, meander_amplitude=None, meander_length=None,
-            parameter_samples=3, statistics=False, include_input=False,
+            parameter_samples=3, statistics=True, include_input=False,
     ):
         """Provides an estimate with incomplete input data. The rough estimate is based on assessing a range values of
         the undefined parameter(s). Based on the resulting spreading, a rough estimate is provided. A parameter can also
@@ -251,7 +265,7 @@ class NeuralNetwork:
         :param meander_amplitude: meander amplitude, defaults to None
         :param meander_length: meander length, defaults to None
         :param parameter_samples: number of samples per incompletely defined parameter, defaults to 3
-        :param statistics: return statistics of estimate, defaults to False
+        :param statistics: return statistics of estimate, defaults to True
         :param include_input: include input in returned data, defaults to False
 
         :type tidal_range: float, iterable, optional
