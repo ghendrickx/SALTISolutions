@@ -14,7 +14,7 @@ def run():
 
 
 # add root-directory to PYTHONPATH
-root = '\\'.join(os.path.abspath(os.path.dirname(__file__)).split('\\')[:-1])
+root = os.sep.join(os.path.abspath(os.path.dirname(__file__)).split(os.sep)[:-1])
 if root not in sys.path:
     sys.path.append(root)
 
