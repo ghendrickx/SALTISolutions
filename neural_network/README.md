@@ -45,6 +45,9 @@ python neural_network/api.py
 python path/to/repository/neural_network/api.py
 ```
 
+There is also the possibility to use the neural network without the web-API - as stand-alone. For more information on
+this approach, see [`machine_learning`](machine_learning).
+
 ## Structure
 The neural network and web-API are located in the folders [`machine_learning`](machine_learning) and 
 [`application`](application), respectively:
