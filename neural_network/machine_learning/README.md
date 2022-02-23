@@ -1,4 +1,4 @@
-# Estuarine dynamics: Neural network
+# Neural network: Estuarine dynamics
 The neural network can also be used separately from the web-API. This allows for evaluating a wide range of estuarine
 configurations as well as a more stochastic approach.
 
@@ -140,7 +140,7 @@ estimation = nn.estimate(
 print(estimation)
 ```
 This will return some basic statistics:
-```commandline
+```
 count        3.000000
 mean      9945.273995
 std       4593.710587
@@ -152,7 +152,7 @@ max      15060.544014
 Name: L, dtype: float64
 ```
 In addition, the above example returns a `warning` because the provided range exceeds the training data:
-```commandline
+```
 Defined range exceeds training data; "river_discharge" range used: (7750, 15999.456290763)
 ```
 Note that the above statistics are based on a sample size of only three samples (`count        3.000000`). This is the
@@ -185,7 +185,7 @@ print(estimation)
 ```
 This returns some more reliable statistics but also increases the computational costs, especially when there are 
 multiple unknowns in the input space:
-```commandline
+```
 count      100.000000
 mean      9283.223510
 std       2617.902980
