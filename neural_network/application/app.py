@@ -19,6 +19,7 @@ APP = dash.Dash(__name__)
 
 # neural network
 NN = NeuralNetwork()
+NN.output = NN.get_output_vars()
 
 # data processing
 _UNITS_VARS = {
@@ -203,7 +204,7 @@ def nn_output(
 
     length, variability = NN.single_predict(**args)[['L', 'V']].values[0]
     output = [
-        html.P(f'Salt intrusion length: {80 * length:.1f} [km]'),
+        html.P(f'Salt intrusion length: {1e-3 * length:.1f} [km]'),
         # html.P(f'Salt variability: {variability:.2f}'),
         html.P(
             f'Estuary type: {classification} '
