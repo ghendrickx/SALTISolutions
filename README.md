@@ -23,9 +23,11 @@ physical processes determining salt intrusion and the scale of the analysis, mac
 **Phase 3: Multidisciplinary assessment:** TBD
 
 # This repository
-This repository is aimed at containing all relevant code produced during an ongoing research. Great effort is put into
-structuring this repository such that the code corresponding to the various aspects of the research are clearly stated.
-The code is developed on a private repository, and once ready for publication, added to this (public) repository.
+This repository functions as a collective overview of all work performed as part of the aforementioned PhD research. The
+result is a repository without any code, but cross-references to the standalone repositories containing products that
+resulted from the PhD research, so-called *sub-repositories*.
+
+All code is developed on a private repository, and once ready for publication, stored in, or added to, a sub-repository.
 
 ## Author
 Gijs G. Hendrickx 
@@ -35,24 +37,17 @@ Gijs G. Hendrickx
 ## Sub-repositories
 Every sub-repository contains its own elaborate, case-specific `README.md` to assist in its use. The following
 sub-repositories are included:
-1.  [Neural network](https://github.com/ghendrickx/SALTISolutions/tree/master/neural_network)
+1.  [**Neural network**](https://github.com/ghendrickx/SALTISolutions/tree/master/neural_network). DOI: [TBD]().
 
 ## References
 As this is a living repository, the exact way of citing depends on the version/release of the code used, which is included
 in the respective publications for which they are used.
-1.  Pre-release: [`v0.1-beta`](https://github.com/ghendrickx/SALTISolutions/tree/v0.1-beta)
-    > Hendrickx, G.G. (2022). SALTISolutions: A neural network for estuarine salt dynamics. 4TU.ResearchData. Software.
-    [doi:10.4121/19161752](https://doi.org/10.4121/19161752.v1).
-1.  Release: [`v1.0`](https://github.com/ghendrickx/SALTISolutions/tree/v1.0)
-    > Hendrickx, G.G. (2022). SALTISolutions: A neural network for estuarine salt dynamics. 4TU.ResearchData. Software.
-    [doi:10.4121/19161752](https://doi.org/10.4121/19161752.v2).
-    
-This repository is part of/used in the following publications:
+
+### Peer-reviewed articles
+The following peer-reviewed articles include aspects of this PhD research:
 *   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), and 
     [Antol&iacute;nez, J.A.&Aacute;](https://orcid.org/0000-0002-0694-4817). 
     (TBD). TBD. [doi:TBD]().
-    *   [v0.1-beta](https://doi.org/10.4121/19161752)
-    *   [v1.0](https://doi.org/10.4121/19161752)
     
 *   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), 
     [Antol&iacute;nez, J.A.&Aacute;](https://orcid.org/0000-0002-0694-4817), 
@@ -61,4 +56,31 @@ This repository is part of/used in the following publications:
     [W.M. Kranenburg](https://orcid.org/0000-0002-4736-7913), and 
     [P.M.J. Herman](https://orcid.org/0000-0003-2188-6341).
     (TBD). TBD. [doi:TBD]().
-    *   [v1.1]()
+
+### Conferences
+The following presentations at conferences include aspects of this PhD research:
+*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657), 
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and 
+    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341). 
+    March 25, 2021.
+    Nature-based solutions to mitigate salt intrusion.
+    *NCK Days 2021*. Online.
+    
+*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657), 
+    [Antol&iacute;nez, J.A.&Aacute;](https://orcid.org/0000-0002-0694-4817), 
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), 
+    [Huismans, Y.](https://orcid.org/0000-0001-6537-6111), 
+    [Kranenburg, W.M.](https://orcid.org/0000-0002-4736-7913), and 
+    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341). 
+    March 4, 2022.
+    Combining machine learning and process-based models to enhance the understanding of estuarine salt intrusion and
+    development of estuary-scale nature-based solutions. 
+    *Ocean Sciences Meeting*. Online.
+
+*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657), 
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and 
+    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341). 
+    March 17, 2022. 
+    Estuarine sensitivity to salt intrusion mitigation measures. 
+    *NCK Days 2022*. Twente, the Netherlands.
+    
