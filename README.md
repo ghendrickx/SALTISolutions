@@ -43,7 +43,7 @@ Gijs G. Hendrickx
 ## Sub-repositories
 Every sub-repository contains its own elaborate, case-specific `README.md` to assist in its use. The following
 sub-repositories are included:
-1.  [**ANNESI: Artificial neural network for estuarine salt intrusion**](https://github.com/ghendrickx/ANNESI).
+1.  [**ANNESI**](https://github.com/ghendrickx/ANNESI)**:** Artificial neural network for estuarine salt intrusion.
     [doi:10.4121/19307693](https://doi.org/10.4121/19307693).
 
 Relevant publications associated with the sub-repositories are stated in their respective `README.md`-files.
@@ -91,5 +91,5 @@ The following presentations at conferences include aspects of this PhD research 
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341). 
     March 17, 2022. 
     Estuarine sensitivity to salt intrusion mitigation measures. 
-    *NCK Days 2022*. Twente, the Netherlands.
+    *NCK Days 2022*. Enschede, the Netherlands.
     
