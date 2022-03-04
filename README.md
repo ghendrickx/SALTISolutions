@@ -4,8 +4,8 @@
 SALTISolutions is a research consortium in which five Dutch universities are involved in collaboration with companies in
 the fields related to salt intrusion. The consortium focuses on different aspects of salt intrusion and its impact on 
 nature and society. The main goal is the development of a Virtual Delta that encompasses a digital twin and a serious
-game. For more information, click 
-[here](https://www.nwo.nl/en/researchprogrammes/perspectief/perspectief-programmes/saltisolutions).
+game. For more information, see the 
+[website of SALTISolutions](https://www.nwo.nl/en/researchprogrammes/perspectief/perspectief-programmes/saltisolutions).
 
 ## Working package 7.1
 Working package 7.1 (WP 7.1) of SALTISolutions focuses on the development of nature-based solutions to mitigate salt 
@@ -43,11 +43,14 @@ Gijs G. Hendrickx
 ## Sub-repositories
 Every sub-repository contains its own elaborate, case-specific `README.md` to assist in its use. The following
 sub-repositories are included:
-1.  [**Neural network**](). doi:[TBD]().
+1.  [**ANNESI: Artificial neural network for estuarine salt intrusion**](https://github.com/ghendrickx/ANNESI).
+    [doi:10.4121/19307693](https://doi.org/10.4121/19307693).
+
+Relevant publications associated with the sub-repositories are stated in their respective `README.md`-files.
 
 ## References
-Once the sub-repositories are released, DOIs are assigned to them so they can be referenced accordingly. In addition,
-below an overview of related publications.
+Once the sub-repositories are released, DOIs are assigned to them so they can be referenced accordingly (see above). In 
+addition, below an overview of related publications.
 
 ### Peer-reviewed articles
 The following peer-reviewed articles include aspects of this PhD research:
@@ -64,7 +67,7 @@ The following peer-reviewed articles include aspects of this PhD research:
     (TBD). TBD. doi:[TBD]().
 
 ### Conferences
-The following presentations at conferences include aspects of this PhD research:
+The following presentations at conferences include aspects of this PhD research (*presenter in bold-face*):
 *   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657), 
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and 
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341). 
@@ -81,7 +84,7 @@ The following presentations at conferences include aspects of this PhD research:
     March 4, 2022.
     Combining machine learning and process-based models to enhance the understanding of estuarine salt intrusion and
     development of estuary-scale nature-based solutions. 
-    *Ocean Sciences Meeting*. Online.
+    *Ocean Sciences Meeting 2022*. Online.
 
 *   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657), 
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and 
