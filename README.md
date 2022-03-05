@@ -54,8 +54,9 @@ addition, below an overview of related publications.
 
 ### Peer-reviewed articles
 The following peer-reviewed articles include aspects of this PhD research:
-*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), and 
-    [Antol&iacute;nez, J.A.&Aacute;](https://orcid.org/0000-0002-0694-4817). 
+*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), 
+    [Antol&iacute;nez, J.A.&Aacute;](https://orcid.org/0000-0002-0694-4817), and 
+    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341). 
     (TBD). TBD. doi:[TBD]().
     
 *   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), 
