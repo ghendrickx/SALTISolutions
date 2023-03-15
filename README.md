@@ -4,8 +4,7 @@
 SALTISolutions is a research consortium in which five Dutch universities are involved in collaboration with companies in
 the fields related to salt intrusion. The consortium focuses on different aspects of salt intrusion and its impact on 
 nature and society. The main goal is the development of a Virtual Delta that encompasses a digital twin and a serious
-game. For more information, see the 
-[website of SALTISolutions](https://www.nwo.nl/en/researchprogrammes/perspectief/perspectief-programmes/saltisolutions).
+game. For more information, see the [website of SALTISolutions](https://kbase.ncr-web.org/saltisolutions/).
 
 ## Working package 7.1
 Working package 7.1 (WP 7.1) of SALTISolutions focuses on the development of nature-based solutions to mitigate salt 
