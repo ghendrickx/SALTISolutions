@@ -54,43 +54,92 @@ addition, below an overview of related publications.
 
 ### Peer-reviewed articles
 The following peer-reviewed articles include aspects of this PhD research:
-*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), 
-    [Antol&iacute;nez, J.A.&Aacute;](https://orcid.org/0000-0002-0694-4817), and 
-    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341). 
-    (TBD). TBD. doi:[TBD]().
+
+*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
+    [Antol&iacute;nez, J.A.A.](https://orcid.org/0000-0002-0694-4817), and
+    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
+    (2023).
+    Predicting the response of complex systems for coastal management. 
+    _Coastal Engineering_, TBD(TBD):TBD-TBD
+    doi:[10.1016/j.coastaleng.2023.104289](https://doi.org/10.1016/j.coastaleng.2023.104289).
     
-*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), 
-    [Antol&iacute;nez, J.A.&Aacute;](https://orcid.org/0000-0002-0694-4817), 
-    [S.G.J. Aarninkhof](https://orcid.org/0000-0002-4591-0257), 
-    [Y. Huismans](https://orcid.org/0000-0001-6537-6111), 
-    [W.M. Kranenburg](https://orcid.org/0000-0002-4736-7913), and 
-    [P.M.J. Herman](https://orcid.org/0000-0003-2188-6341).
+*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
+    [Kranenburg, W.M.](https://orcid.org/0000-0002-4736-7913),
+    [Antol&iacute;nez, J.A.A.](https://orcid.org/0000-0002-0694-4817),
+    [Huismans, Y.](https://orcid.org/0000-0001-6537-6111),
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
+    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
     (TBD). TBD. doi:[TBD]().
 
 ### Conferences
 The following presentations at conferences include aspects of this PhD research (*presenter in bold-face*):
-*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657), 
-    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and 
-    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341). 
+
+*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
+    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
     March 25, 2021.
     Nature-based solutions to mitigate salt intrusion.
-    *NCK Days 2021*. Online.
+    _NCK Days 2021_.
+    Online.
     
-*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657), 
-    [Antol&iacute;nez, J.A.&Aacute;](https://orcid.org/0000-0002-0694-4817), 
-    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), 
-    [Huismans, Y.](https://orcid.org/0000-0001-6537-6111), 
-    [Kranenburg, W.M.](https://orcid.org/0000-0002-4736-7913), and 
-    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341). 
+*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+    [Antol&iacute;nez, J.A.A.](https://orcid.org/0000-0002-0694-4817),
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257),
+    [Huismans, Y.](https://orcid.org/0000-0001-6537-6111),
+    [Kranenburg, W.M.](https://orcid.org/0000-0002-4736-7913), and
+    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
     March 4, 2022.
     Combining machine learning and process-based models to enhance the understanding of estuarine salt intrusion and
     development of estuary-scale nature-based solutions. 
-    *Ocean Sciences Meeting 2022*. Online.
+    _Ocean Sciences Meeting 2022_.
+    Online.
 
-*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657), 
-    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and 
-    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341). 
+*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
+    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
     March 17, 2022. 
     Estuarine sensitivity to salt intrusion mitigation measures. 
-    *NCK Days 2022*. Enschede, the Netherlands.
+    _NCK Days 2022_.
+    Enschede, the Netherlands.
     
+*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+    [Antol&iacute;nez, J.A.A.](https://orcid.org/0000-0002-0694-4817),
+    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341), and
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257)
+    December 5, 2022.
+    Estuarine sensitivity to nature-based salt intrusion mitigation measures.
+    _37th International Conference on Coastal Engineering 2022_.
+    Sydney, Australia.
+    
+*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+    [Meselhe, E.A.](https://orcid.org/0000-0002-0628-1670),
+    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341), and
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257)
+    April 13, 2023.
+    A sill as nature-based solution to mitigate salt intrusion.
+    _Coastal Sediments 2023_.
+    New Orleans (LA), the United States of America.
+
+*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+    [Meselhe, E.A.](https://orcid.org/0000-0002-0628-1670),
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
+    [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
+    April 27/28, 2023.
+    Designing a sill to mitigate salt intrusion.
+    _Lower Mississippi River Science Symposium_.
+    New Orleans (LA), the United States of America.
+    
+### Software and data sets
+The following software and data sets have been procuded as part of this PhD research:
+
+*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657)
+    (2022).
+    _ANNESI: An open-source artificial neural network for estuarine salt intrusion_.
+    4TU.ResearchData. Software.
+    doi:[10.4121/19307693](https://doi.org/10.4121/19307693).
+    
+*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657)
+    (2023).
+    _TBD_.
+    4TU.ResearchData. Data set.
+    doi: [10.4121/22272247](https://doi.org/10.4121/22272247).
