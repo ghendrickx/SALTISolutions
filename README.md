@@ -23,26 +23,26 @@ Based on the sensitivity analysis of the first phase, some high-potential nature
 investigated in more detail.
 
 **Phase 3: Multidisciplinary assessment:**
-The *Building with Nature*-approach includes three perspectives in its assessment of nature-based solutions: 
+The _Building with Nature_-approach includes three perspectives in its assessment of nature-based solutions: 
 (1) physics, (2) ecology, and (3) socio-economy. In this last phase, the ecological and socio-economical perspectives
 are added to the assessment of nature-based solutions to mitigate salt intrusion.
 
 # This repository
 This repository functions as a collective overview of all work performed as part of the introduced research topic. The
 result is a repository without any code, but cross-references to the standalone repositories containing products that
-resulted from the research, so-called *sub-repositories*.
+resulted from the research, so-called _sub-repositories_.
 
 All code is developed on a private repository, and once ready for publication, stored in (or added to) a sub-repository.
 
 ## Author
 Gijs G. Hendrickx 
 [![alt text](https://camo.githubusercontent.com/e1ec0e2167b22db46b0a5d60525c3e4a4f879590a04c370fef77e6a7e00eb234/68747470733a2f2f696e666f2e6f726369642e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f31312f6f726369645f31367831362e706e67) 0000-0001-9523-7657](https://orcid.org/0000-0001-9523-7657)
-(*Delft University of Technology*)
+(_Delft University of Technology_)
 
 ## Sub-repositories
 Every sub-repository contains its own elaborate, case-specific `README.md` to assist in its use. The following
 sub-repositories are included:
-1.  [**ANNESI**](https://github.com/ghendrickx/ANNESI)**:** Artificial neural network for estuarine salt intrusion.
+1.  [**ANNESI**](https://github.com/ghendrickx/ANNESI): Artificial neural network for estuarine salt intrusion.
     [doi:10.4121/19307693](https://doi.org/10.4121/19307693).
 
 Relevant publications associated with the sub-repositories are stated in their respective `README.md`-files.
@@ -71,7 +71,7 @@ The following peer-reviewed articles include aspects of this PhD research:
     (TBD). TBD. doi:[TBD]().
 
 ### Conferences
-The following presentations at conferences include aspects of this PhD research (*presenter in bold-face*):
+The following presentations at conferences include aspects of this PhD research (_presenter in **bold**_):
 
 *   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
