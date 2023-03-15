@@ -42,8 +42,7 @@ Gijs G. Hendrickx
 ## Sub-repositories
 Every sub-repository contains its own elaborate, case-specific `README.md` to assist in its use. The following
 sub-repositories are included:
-1.  [**ANNESI**](https://github.com/ghendrickx/ANNESI): Artificial neural network for estuarine salt intrusion.
-    [doi:10.4121/19307693](https://doi.org/10.4121/19307693).
+*  [**ANNESI**](https://github.com/ghendrickx/ANNESI): Artificial neural network for estuarine salt intrusion.
 
 Relevant publications associated with the sub-repositories are stated in their respective `README.md`-files.
 
