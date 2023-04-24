@@ -39,7 +39,7 @@ Gijs G. Hendrickx
 [![alt text](https://camo.githubusercontent.com/e1ec0e2167b22db46b0a5d60525c3e4a4f879590a04c370fef77e6a7e00eb234/68747470733a2f2f696e666f2e6f726369642e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f31312f6f726369645f31367831362e706e67) 0000-0001-9523-7657](https://orcid.org/0000-0001-9523-7657)
 (_Delft University of Technology_)
 
-Contact: [G.G.Hendrickx@tudelft.nl](mailto:G.G.Hendrickx@tudelft.nl?subject=[GitHub]%20HybridModelling:%20).
+Contact: [G.G.Hendrickx@tudelft.nl](mailto:G.G.Hendrickx@tudelft.nl?subject=[GitHub]%20SALTISolutions:%20).
 
 ## Sub-repositories
 Every sub-repository contains its own elaborate, case-specific `README`-file to assist in its use. The following
