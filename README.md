@@ -39,16 +39,22 @@ Gijs G. Hendrickx
 [![alt text](https://camo.githubusercontent.com/e1ec0e2167b22db46b0a5d60525c3e4a4f879590a04c370fef77e6a7e00eb234/68747470733a2f2f696e666f2e6f726369642e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f31312f6f726369645f31367831362e706e67) 0000-0001-9523-7657](https://orcid.org/0000-0001-9523-7657)
 (_Delft University of Technology_)
 
-## Sub-repositories
-Every sub-repository contains its own elaborate, case-specific `README.md` to assist in its use. The following
-sub-repositories are included:
-*  [**ANNESI**](https://github.com/ghendrickx/ANNESI): Artificial neural network for estuarine salt intrusion.
+Contact: [G.G.Hendrickx@tudelft.nl](mailto:G.G.Hendrickx@tudelft.nl?subject=[GitHub]%20HybridModelling:%20).
 
-Relevant publications associated with the sub-repositories are stated in their respective `README.md`-files.
+## Sub-repositories
+Every sub-repository contains its own elaborate, case-specific `README`-file to assist in its use. The following
+sub-repositories are included:
+*   [**ANNESI**](https://github.com/ghendrickx/ANNESI): 
+    Artificial neural network for estuarine salt intrusion.
+*   [**HybridModelling**](https://github.com/ghendrickx/HybridModelling): 
+    Hybrid modelling using machine learning techniques and process-based models.
+    (_Private repository, accessible upon 
+    [reasonable request](mailto:G.G.Hendrickx@tudelft.nl?subject=[GitHub]%20HybridModelling:%20)._)
+
+Relevant publications associated with the sub-repositories are stated in their respective `README`-files.
 
 ## References
-Once the sub-repositories are released, DOIs are assigned to them so they can be referenced accordingly (see above). In 
-addition, below an overview of related publications.
+An overview of related publications is presented below.
 
 ### Peer-reviewed articles
 The following peer-reviewed articles include aspects of this PhD research:
@@ -58,8 +64,8 @@ The following peer-reviewed articles include aspects of this PhD research:
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
     (2023).
     Predicting the response of complex systems for coastal management. 
-    _Coastal Engineering_, TBD(TBD):TBD-TBD
-    doi:[10.1016/j.coastaleng.2023.104289](https://doi.org/10.1016/j.coastaleng.2023.104289).
+    _Coastal Engineering_, 182:104289.
+    DOI:[10.1016/j.coastaleng.2023.104289](https://doi.org/10.1016/j.coastaleng.2023.104289).
     
 *   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
     [Kranenburg, W.M.](https://orcid.org/0000-0002-4736-7913),
@@ -67,7 +73,10 @@ The following peer-reviewed articles include aspects of this PhD research:
     [Huismans, Y.](https://orcid.org/0000-0001-6537-6111),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
-    (TBD). TBD. doi:[TBD]().
+    (_submitted_).
+    Sensitivity of salt intrusion to estuary-scale changes: 
+    A systematic modelling study towards nature-based mitigation measures.
+    _Estuarine, Coastal and Shelf Science_.
 
 ### Conferences
 The following presentations at conferences include aspects of this PhD research (_presenter in **bold**_):
@@ -116,28 +125,29 @@ The following presentations at conferences include aspects of this PhD research 
     April 13, 2023.
     A sill as nature-based solution to mitigate salt intrusion.
     _Coastal Sediments 2023_.
-    New Orleans (LA), the United States of America.
+    New Orleans, LA, the United States of America.
+    DOI:[10.1142/9789811275135_0184](https://doi.org/10.1142/9789811275135_0184).
 
 *   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Meselhe, E.A.](https://orcid.org/0000-0002-0628-1670),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
-    April 27/28, 2023.
+    April 27, 2023.
     Designing a sill to mitigate salt intrusion.
     _Lower Mississippi River Science Symposium_.
-    New Orleans (LA), the United States of America.
+    New Orleans, LA, the United States of America.
     
-### Software and data sets
-The following software and data sets have been procuded as part of this PhD research:
+### Software and datasets
+The following software and datasets have been produced as part of this PhD research:
 
 *   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657)
     (2022).
     _ANNESI: An open-source artificial neural network for estuarine salt intrusion_.
     4TU.ResearchData. Software.
-    doi:[10.4121/19307693](https://doi.org/10.4121/19307693).
+    DOI:[10.4121/19307693](https://doi.org/10.4121/19307693).
     
 *   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657)
     (2023).
-    _TBD_.
-    4TU.ResearchData. Data set.
-    doi: [10.4121/22272247](https://doi.org/10.4121/22272247).
+    _NEESI: Numerical experiments of estuarine salt intrusion dataset_.
+    4TU.ResearchData. Dataset.
+    DOI:[10.4121/22272247](https://doi.org/10.4121/22272247).
