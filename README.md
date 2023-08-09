@@ -46,6 +46,7 @@ Every sub-repository contains its own elaborate, case-specific `README`-file to 
 sub-repositories are included:
 *   [**ANNESI**](https://github.com/ghendrickx/ANNESI): 
     Artificial neural network for estuarine salt intrusion.
+    (_Coupled web-API at [**ANNESI-web**](https://github.com/ghendrickx/ANNESI-web)._)
 *   [**HybridModelling**](https://github.com/ghendrickx/HybridModelling): 
     Hybrid modelling using machine learning techniques and process-based models.
     (_Private repository, accessible upon 
