@@ -50,6 +50,8 @@ sub-repositories are included:
     Hybrid modelling using machine learning techniques and process-based models.
     (_Private repository, accessible upon 
     [reasonable request](mailto:G.G.Hendrickx@tudelft.nl?subject=[GitHub]%20HybridModelling:%20)._)
+*   [**GAPool**](https://github.com/ghendrickx/GAPool):
+    Genetic algorithm with "best pool" functionality.
 
 Relevant publications associated with the sub-repositories are stated in their respective `README`-files.
 
@@ -64,8 +66,8 @@ The following peer-reviewed articles include aspects of this PhD research:
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
     (2023).
     Predicting the response of complex systems for coastal management. 
-    _Coastal Engineering_, 182:104289.
-    DOI:[10.1016/j.coastaleng.2023.104289](https://doi.org/10.1016/j.coastaleng.2023.104289).
+    _Coastal Engineering_, **182**:104289.
+    doi:[10.1016/j.coastaleng.2023.104289](https://doi.org/10.1016/j.coastaleng.2023.104289).
     
 *   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
     [Kranenburg, W.M.](https://orcid.org/0000-0002-4736-7913),
@@ -144,10 +146,10 @@ The following software and datasets have been produced as part of this PhD resea
     (2022).
     _ANNESI: An open-source artificial neural network for estuarine salt intrusion_.
     4TU.ResearchData. Software.
-    DOI:[10.4121/19307693](https://doi.org/10.4121/19307693).
+    doi:[10.4121/19307693](https://doi.org/10.4121/19307693).
     
 *   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657)
     (2023).
     _NEESI: Numerical experiments of estuarine salt intrusion dataset_.
     4TU.ResearchData. Dataset.
-    DOI:[10.4121/22272247](https://doi.org/10.4121/22272247).
+    doi:[10.4121/22272247](https://doi.org/10.4121/22272247).
