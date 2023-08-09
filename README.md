@@ -75,7 +75,7 @@ The following peer-reviewed articles include aspects of this PhD research:
     [Huismans, Y.](https://orcid.org/0000-0001-6537-6111),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
-    (_submitted_).
+    (_in review_).
     Sensitivity of salt intrusion to estuary-scale changes: 
     A systematic modelling study towards nature-based mitigation measures.
     _Estuarine, Coastal and Shelf Science_.
