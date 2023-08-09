@@ -128,7 +128,7 @@ The following presentations at conferences include aspects of this PhD research 
     A sill as nature-based solution to mitigate salt intrusion.
     _Coastal Sediments 2023_.
     New Orleans, LA, the United States of America.
-    DOI:[10.1142/9789811275135_0184](https://doi.org/10.1142/9789811275135_0184).
+    doi:[10.1142/9789811275135_0184](https://doi.org/10.1142/9789811275135_0184).
 
 *   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Meselhe, E.A.](https://orcid.org/0000-0002-0628-1670),
