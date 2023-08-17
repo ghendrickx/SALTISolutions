@@ -44,16 +44,16 @@ Contact: [G.G.Hendrickx@tudelft.nl](mailto:G.G.Hendrickx@tudelft.nl?subject=[Git
 ## Sub-repositories
 Every sub-repository contains its own elaborate, case-specific `README`-file to assist in its use. The following
 sub-repositories are included:
-*   [**ANNESI**](https://github.com/ghendrickx/ANNESI): 
+ 1. [**ANNESI**](https://github.com/ghendrickx/ANNESI): 
     Artificial neural network for estuarine salt intrusion.
     (_Coupled web-API at [**ANNESI-web**](https://github.com/ghendrickx/ANNESI-web)._)
-*   [**EMMA**](https://github.com/ghendrickx/EMMA):
+ 1. [**EMMA**](https://github.com/ghendrickx/EMMA):
     Ecotope-map maker based on abiotics.
-*   [**HybridModelling**](https://github.com/ghendrickx/HybridModelling): 
+ 1. [**HybridModelling**](https://github.com/ghendrickx/HybridModelling): 
     Hybrid modelling using machine learning techniques and process-based models.
     (_Private repository, accessible upon 
     [reasonable request](mailto:G.G.Hendrickx@tudelft.nl?subject=[GitHub]%20HybridModelling:%20)._)
-*   [**GAPool**](https://github.com/ghendrickx/GAPool):
+ 1. [**GAPool**](https://github.com/ghendrickx/GAPool):
     Genetic algorithm with "best pool" functionality.
 
 Relevant publications associated with the sub-repositories are stated in their respective `README`-files.
@@ -64,7 +64,7 @@ An overview of related publications is presented below.
 ### Peer-reviewed articles
 The following peer-reviewed articles include aspects of this PhD research:
 
-*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
+ 1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
     [Antol&iacute;nez, J.A.A.](https://orcid.org/0000-0002-0694-4817), and
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
     (2023).
@@ -72,7 +72,7 @@ The following peer-reviewed articles include aspects of this PhD research:
     _Coastal Engineering_, **182**:104289.
     doi:[10.1016/j.coastaleng.2023.104289](https://doi.org/10.1016/j.coastaleng.2023.104289).
     
-*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
+ 1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
     [Kranenburg, W.M.](https://orcid.org/0000-0002-4736-7913),
     [Antol&iacute;nez, J.A.A.](https://orcid.org/0000-0002-0694-4817),
     [Huismans, Y.](https://orcid.org/0000-0001-6537-6111),
@@ -86,58 +86,58 @@ The following peer-reviewed articles include aspects of this PhD research:
 ### Conferences
 The following presentations at conferences include aspects of this PhD research (_presenter in **bold**_):
 
-*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+ 1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
-    March 25, 2021.
+    (March 25, 2021).
     Nature-based solutions to mitigate salt intrusion.
     _NCK Days 2021_.
     Online.
     
-*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+ 1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Antol&iacute;nez, J.A.A.](https://orcid.org/0000-0002-0694-4817),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257),
     [Huismans, Y.](https://orcid.org/0000-0001-6537-6111),
     [Kranenburg, W.M.](https://orcid.org/0000-0002-4736-7913), and
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
-    March 4, 2022.
+    (March 4, 2022).
     Combining machine learning and process-based models to enhance the understanding of estuarine salt intrusion and
     development of estuary-scale nature-based solutions. 
     _Ocean Sciences Meeting 2022_.
     Online.
 
-*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+ 1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
-    March 17, 2022. 
+    (March 17, 2022). 
     Estuarine sensitivity to salt intrusion mitigation measures. 
     _NCK Days 2022_.
     Enschede, the Netherlands.
     
-*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+ 1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Antol&iacute;nez, J.A.A.](https://orcid.org/0000-0002-0694-4817),
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341), and
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257)
-    December 5, 2022.
+    (December 5, 2022).
     Estuarine sensitivity to nature-based salt intrusion mitigation measures.
     _37th International Conference on Coastal Engineering 2022_.
     Sydney, Australia.
     
-*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+ 1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Meselhe, E.A.](https://orcid.org/0000-0002-0628-1670),
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341), and
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257)
-    April 13, 2023.
+    (April 13, 2023).
     A sill as nature-based solution to mitigate salt intrusion.
     _Coastal Sediments 2023_.
     New Orleans, LA, the United States of America.
     doi:[10.1142/9789811275135_0184](https://doi.org/10.1142/9789811275135_0184).
 
-*   [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+ 1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Meselhe, E.A.](https://orcid.org/0000-0002-0628-1670),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
-    April 27, 2023.
+    (April 27, 2023).
     Designing a sill to mitigate salt intrusion.
     _Lower Mississippi River Science Symposium_.
     New Orleans, LA, the United States of America.
@@ -145,13 +145,13 @@ The following presentations at conferences include aspects of this PhD research 
 ### Software and datasets
 The following software and datasets have been produced as part of this PhD research:
 
-*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657)
+ 1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657)
     (2022).
     _ANNESI: An open-source artificial neural network for estuarine salt intrusion_.
     4TU.ResearchData. Software.
     doi:[10.4121/19307693](https://doi.org/10.4121/19307693).
     
-*   [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657)
+ 1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657)
     (2023).
     _NEESI: Numerical experiments of estuarine salt intrusion dataset_.
     4TU.ResearchData. Dataset.
