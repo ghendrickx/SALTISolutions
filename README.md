@@ -55,6 +55,8 @@ sub-repositories are included:
     [reasonable request](mailto:G.G.Hendrickx@tudelft.nl?subject=[GitHub]%20HybridModelling:%20)._)
  1. [**GAPool**](https://github.com/ghendrickx/GAPool):
     Genetic algorithm with "best pool" functionality.
+ 1. [**SaltFluxDecomposition**](https://github.com/ghendrickx/SaltFluxDecomposition):
+    `NumPy`-based salt flux decomposition.
 
 Relevant publications associated with the sub-repositories are stated in their respective `README`-files.
 
