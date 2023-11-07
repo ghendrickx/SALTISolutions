@@ -89,7 +89,7 @@ The following peer-reviewed articles include aspects of this PhD research:
     [Manuel, L.A.](https://orcid.org/0000-0001-5424-1270),
     [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
-    [Meselhe, E.A.]()
+    [Meselhe, E.A.](https://orcid.org/0000-0002-5832-8864)
     (_submitted_).
     An earthen sill as a measure to mitigate salt intrusion in estuaries.
     _Ocean & Coastal Management_.
@@ -141,7 +141,7 @@ The following presentations at conferences include aspects of this PhD research 
     Sydney, Australia.
     
  1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
-    [Meselhe, E.A.](https://orcid.org/0000-0002-0628-1670),
+    [Meselhe, E.A.](https://orcid.org/0000-0002-5832-8864),
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341), and
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257)
     (April 13, 2023).
@@ -151,7 +151,7 @@ The following presentations at conferences include aspects of this PhD research 
     doi:[10.1142/9789811275135_0184](https://doi.org/10.1142/9789811275135_0184).
 
  1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
-    [Meselhe, E.A.](https://orcid.org/0000-0002-0628-1670),
+    [Meselhe, E.A.](https://orcid.org/0000-0002-5832-8864),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
     (April 27, 2023).
