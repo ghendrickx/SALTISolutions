@@ -80,10 +80,25 @@ The following peer-reviewed articles include aspects of this PhD research:
     [Huismans, Y.](https://orcid.org/0000-0001-6537-6111),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
-    (_in review_).
+    (_in press_).
     Sensitivity of salt intrusion to estuary-scale changes: 
     A systematic modelling study towards nature-based mitigation measures.
     _Estuarine, Coastal and Shelf Science_.
+    
+ 1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
+    [Manuel, L.A.](https://orcid.org/0000-0001-5424-1270),
+    [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469),
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
+    [Meselhe, E.A.]()
+    (_submitted_).
+    An earthen sill as a measure to mitigate salt intrusion in estuaries.
+    _Ocean & Coastal Management_.
+    
+ 1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), and
+    [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469)
+    (_submitted_).
+    On the effects of intertidal area on estuarine salt intrusion.
+    _Journal of Geophysical Research: Oceans_.
 
 ### Conferences
 The following presentations at conferences include aspects of this PhD research (_presenter in **bold**_):
@@ -158,3 +173,9 @@ The following software and datasets have been produced as part of this PhD resea
     _NEESI: Numerical experiments of estuarine salt intrusion dataset_.
     4TU.ResearchData. Dataset.
     doi:[10.4121/22272247](https://doi.org/10.4121/22272247).
+    
+ 1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657)
+    (2023).
+    _`NumPy`-based Salt Flux Decomposition_.
+    4TU.ResearchData. Software.
+    doi:[10.4121/bccbe767-667b-40ba-a4d1-d8fcad900772](https://doi.org/10.4121/bccbe767-667b-40ba-a4d1-d8fcad900772).
