@@ -49,12 +49,12 @@ sub-repositories are included:
     (_Coupled web-API at [**ANNESI-web**](https://github.com/ghendrickx/ANNESI-web)._)
  1. [**EMMA**](https://github.com/ghendrickx/EMMA):
     Ecotope-map maker based on abiotics.
+ 1. [**GAPool**](https://github.com/ghendrickx/GAPool):
+    Genetic algorithm with "best pool" functionality.
  1. [**HybridModelling**](https://github.com/ghendrickx/HybridModelling): 
     Hybrid modelling using machine learning techniques and process-based models.
     (_Private repository, accessible upon 
     [reasonable request](mailto:G.G.Hendrickx@tudelft.nl?subject=[GitHub]%20HybridModelling:%20)._)
- 1. [**GAPool**](https://github.com/ghendrickx/GAPool):
-    Genetic algorithm with "best pool" functionality.
  1. [**SaltFluxDecomposition**](https://github.com/ghendrickx/SaltFluxDecomposition):
     `NumPy`-based salt flux decomposition.
 
@@ -71,7 +71,8 @@ The following peer-reviewed articles include aspects of this PhD research:
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
     (2023).
     Predicting the response of complex systems for coastal management. 
-    _Coastal Engineering_, **182**:104289.
+    _Coastal Engineering_, 
+    **182**:104289.
     doi:[10.1016/j.coastaleng.2023.104289](https://doi.org/10.1016/j.coastaleng.2023.104289).
     
  1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
@@ -80,10 +81,12 @@ The following peer-reviewed articles include aspects of this PhD research:
     [Huismans, Y.](https://orcid.org/0000-0001-6537-6111),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341)
-    (_in press_).
+    (2023).
     Sensitivity of salt intrusion to estuary-scale changes: 
     A systematic modelling study towards nature-based mitigation measures.
-    _Estuarine, Coastal and Shelf Science_.
+    _Estuarine, Coastal and Shelf Science_,
+    **295**:108564.
+    doi:[10.1016/j.ecss.2023.108564](https://doi.org/10.1016/j.ecss.2023.108564).
     
  1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
     [Manuel, L.A.](https://orcid.org/0000-0001-5424-1270),
@@ -92,7 +95,7 @@ The following peer-reviewed articles include aspects of this PhD research:
     [Meselhe, E.A.](https://orcid.org/0000-0002-5832-8864)
     (_submitted_).
     An earthen sill as a measure to mitigate salt intrusion in estuaries.
-    _Ocean & Coastal Management_.
+    _Estuaries \& Coasts_.
     
  1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), and
     [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469)
@@ -179,3 +182,10 @@ The following software and datasets have been produced as part of this PhD resea
     _`NumPy`-based Salt Flux Decomposition_.
     4TU.ResearchData. Software.
     doi:[10.4121/bccbe767-667b-40ba-a4d1-d8fcad900772](https://doi.org/10.4121/bccbe767-667b-40ba-a4d1-d8fcad900772).
+    
+ 1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), and
+    [Brunink, S.](https://orcid.org/0009-0007-4626-8909)
+    (2023).
+    _EMMA: Ecotope-Map Maker based on Abiotics_.
+    4TU.ResearchData. Software.
+    doi:[10.4121/0100fc5a-a99c-4002-9864-3faade3899e3](https://doi.org/10.4121/0100fc5a-a99c-4002-9864-3faade3899e3).
