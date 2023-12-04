@@ -52,7 +52,9 @@ sub-repositories are included:
  1. [**GAPool**](https://github.com/ghendrickx/GAPool):
     Genetic algorithm with "best pool" functionality.
  1. [**HybridModelling**](https://github.com/ghendrickx/HybridModelling): 
-    Hybrid modelling using machine learning techniques and process-based models.
+    Hybrid modelling using machine learning techniques and process-based models,
+    i.e., implementation of work-flow as described in 
+    [Hendrickx _et al._ (2023)](https://doi.org/10.1016/j.coastaleng.2023.104289).
     (_Private repository, accessible upon 
     [reasonable request](mailto:G.G.Hendrickx@tudelft.nl?subject=[GitHub]%20HybridModelling:%20)._)
  1. [**SaltFluxDecomposition**](https://github.com/ghendrickx/SaltFluxDecomposition):
@@ -113,7 +115,7 @@ The following presentations at conferences include aspects of this PhD research 
     Nature-based solutions to mitigate salt intrusion.
     _NCK Days 2021_.
     Online.
-    
+
  1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Antol&iacute;nez, J.A.A.](https://orcid.org/0000-0002-0694-4817),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257),
@@ -133,7 +135,7 @@ The following presentations at conferences include aspects of this PhD research 
     Estuarine sensitivity to salt intrusion mitigation measures. 
     _NCK Days 2022_.
     Enschede, the Netherlands.
-    
+
  1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Antol&iacute;nez, J.A.A.](https://orcid.org/0000-0002-0694-4817),
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341), and
@@ -142,7 +144,8 @@ The following presentations at conferences include aspects of this PhD research 
     Estuarine sensitivity to nature-based salt intrusion mitigation measures.
     _37th International Conference on Coastal Engineering 2022_.
     Sydney, Australia.
-    
+    doi:[10.9753/icce.v37.management.146](https://doi.org/10.9753/icce.v37.management.146).
+
  1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Meselhe, E.A.](https://orcid.org/0000-0002-5832-8864),
     [Herman, P.M.J.](https://orcid.org/0000-0003-2188-6341), and
