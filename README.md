@@ -95,15 +95,49 @@ The following peer-reviewed articles include aspects of this PhD research:
     [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
     [Meselhe, E.A.](https://orcid.org/0000-0002-5832-8864)
-    (_submitted_).
+    (2024).
     An earthen sill as a measure to mitigate salt intrusion in estuaries.
-    _Estuaries \& Coasts_.
+    _Estuaries \& Coasts_,
+    **47**(5):1199-1208.
+    doi:[10.1007/s12237-024-01359-2](https://doi.org/10.1007/s12237-024-01359-2).
+    
+ 1. [Brunink, S.](https://orcid.org/0009-0007-4626-8909), and
+    [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657).
+    (2024).
+    Predicting ecotopes from hydrodynamic model data:
+        Towards an ecological assessment of nature-based solutions.
+    _Nature-Based Solutions_,
+    **6**:100145.
+    doi:[10.1016/j.nbsj.2024.100145](https://doi.org/10.1016/j.nbsj.2024.100145).    
     
  1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), and
     [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469)
-    (_submitted_).
+    (2024).
     On the effects of intertidal area on estuarine salt intrusion.
-    _Journal of Geophysical Research: Oceans_.
+    _Journal of Geophysical Research: Oceans_,
+    **129**(9):e2023JC020750.
+    doi:[10.1029/2023JC020750](https://doi.org/10.1029/2023JC020750).
+    
+ 1. [Bakker, F.P.](https://orcid.org/0009-0004-8385-8981),
+    [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
+    [Keyzer, L.M.](https://orcid.org/0000-0002-1501-163X),
+    Iglesias, S.R.,
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
+    [van Koningsveld, M.](https://orcid.org/0000-0001-6161-9681).
+    (_in review_).
+    Trading off dissimilar stakeholders interests:
+    Changing the bed level of the main shipping channel of the Rhine-Meuse Delta while considering freshwater 
+        availability.
+    _Environmental Changes_.
+    
+ 1. [Saccon, E.](https://orcid.org/0009-0005-3867-8233),
+    [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
+    [Hulscher, S.J.M.H.](https://orcid.org/0000-0002-8734-1830),
+    [Bouma, T.J.](https://orcid.org/0000-0001-7824-7546), and
+    [van de Koppel, J.](https://orcid.org/0000-0002-0103-4275).
+    (_in review_).
+    Wetland topography drives salinity resilience in freshwater tidal ecosystems.
+    _Ecological Engineering_.
 
 ### Conferences
 The following presentations at conferences include aspects of this PhD research (_presenter in **bold**_):
@@ -165,6 +199,34 @@ The following presentations at conferences include aspects of this PhD research 
     _Lower Mississippi River Science Symposium_.
     New Orleans, LA, the United States of America.
     
+ 1. **de Wilde, J.**,
+    [Kranenburg, W.M.](https://orcid.org/0000-0002-4736-7913),
+    [Huismans, Y.](https://orcid.org/0000-0001-6537-6111),
+    [Pietrzak, J.D.](https://orcid.org/0000-0003-1285-5391), and
+    [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657).
+    (March 14, 2024).
+    Tidal phase differences in multi-branch systems and their effect on salinity intrusion.
+    _NCK Days 2024_.
+    Amersfoort, the Netherlands.
+ 
+ 1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+    [Manuel, L.A.](https://orcid.org/0000-0001-5424-1270),
+    [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469),
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
+    [Meselhe, E.A.](https://orcid.org/0000-0002-5832-8864).
+    (March 14, 2024).
+    When and where to construct a sill to mitigate estuarine salt intrusion.
+    _NCK Days 2024_.
+    Amersfoort, the Netherlands.
+    
+ 1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
+    [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469), and
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257).
+    (September 13, 2024).
+    Engineering guidelines for nature-based solutions to mitigate salt intrusion.
+    _International Conference on Coastal Engineering 2024_.
+    Rome, Italy.
+    
 ### Software and datasets
 The following software and datasets have been produced as part of this PhD research:
 
@@ -187,8 +249,38 @@ The following software and datasets have been produced as part of this PhD resea
     doi:[10.4121/bccbe767-667b-40ba-a4d1-d8fcad900772](https://doi.org/10.4121/bccbe767-667b-40ba-a4d1-d8fcad900772).
     
  1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), and
-    [Brunink, S.](https://orcid.org/0009-0007-4626-8909)
+    [Brunink, S.](https://orcid.org/0009-0007-4626-8909).
     (2023).
     _EMMA: Ecotope-Map Maker based on Abiotics_.
     4TU.ResearchData. Software.
     doi:[10.4121/0100fc5a-a99c-4002-9864-3faade3899e3](https://doi.org/10.4121/0100fc5a-a99c-4002-9864-3faade3899e3).
+    
+ 1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
+    [Manuel, L.A.](https://orcid.org/0000-0001-5424-1270),
+    [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469),
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
+    [Meselhe, E.A.](https://orcid.org/0000-0002-5832-8864)
+    (2024).
+    Dataset underlying the study
+        ''An earthen sill as a measure to mitigate salt intrusion in estuaries.''
+    4TU.ResearchData. Dataset.
+    doi:[10.4121/10d493df-8efb-442b-8c3d-04e92bcf4c4e](https://doi.org/10.4121/10d493df-8efb-442b-8c3d-04e92bcf4c4e).
+    
+ 1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), and
+    [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469)
+    (2024).
+    Dataset underlying the study
+        ''On the effects of intertidal area on estuarine salt intrusion.''
+    4TU.ResearchData. Dataset.
+    doi:[10.4121/c357f1c7-dea8-4971-b5a1-c54c42e4172a](https://doi.org/10.4121/c357f1c7-dea8-4971-b5a1-c54c42e4172a).
+    
+ 1. [Saccon, E.](https://orcid.org/0009-0005-3867-8233),
+    [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
+    [Hulscher, S.J.M.H.](https://orcid.org/0000-0002-8734-1830),
+    [Bouma, T.J.](https://orcid.org/0000-0001-7824-7546), and
+    [van de Koppel, J.](https://orcid.org/0000-0002-0103-4275).
+    (2024).
+    Dataset underlying the study
+        ''Wetland topography drives salinity resilience in freshwater tidal ecosystems.''
+    4TU.ResearchData. Dataset.
+    doi:[10.4121/93d8d223-e2ab-486e-a85b-da14789532d4](https://doi.org/10.4121/93d8d223-e2ab-486e-a85b-da14789532d4).
