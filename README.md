@@ -118,26 +118,30 @@ The following peer-reviewed articles include aspects of this PhD research:
     **129**(9):e2023JC020750.
     doi:[10.1029/2023JC020750](https://doi.org/10.1029/2023JC020750).
     
+ 1. [Saccon, E.](https://orcid.org/0009-0005-3867-8233),
+    [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
+    [Hulscher, S.J.M.H.](https://orcid.org/0000-0002-8734-1830),
+    [Bouma, T.J.](https://orcid.org/0000-0001-7824-7546), and
+    [van de Koppel, J.](https://orcid.org/0000-0002-0103-4275).
+    (2025).
+    Wetland topography drives salinity resilience in freshwater tidal ecosystems.
+    _Ecological Engineering_,
+    **217**:107650.
+    doi:[10.1016/j.ecoleng.2025.107650](https://doi.org/10.1016/j.ecoleng.2025.107650).
+    
  1. [Bakker, F.P.](https://orcid.org/0009-0004-8385-8981),
     [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
     [Keyzer, L.M.](https://orcid.org/0000-0002-1501-163X),
     Iglesias, S.R.,
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
     [van Koningsveld, M.](https://orcid.org/0000-0001-6161-9681).
-    (_in review_).
+    (2025).
     Trading off dissimilar stakeholders interests:
     Changing the bed level of the main shipping channel of the Rhine-Meuse Delta while considering freshwater 
         availability.
-    _Environmental Changes_.
-    
- 1. [Saccon, E.](https://orcid.org/0009-0005-3867-8233),
-    [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
-    [Hulscher, S.J.M.H.](https://orcid.org/0000-0002-8734-1830),
-    [Bouma, T.J.](https://orcid.org/0000-0001-7824-7546), and
-    [van de Koppel, J.](https://orcid.org/0000-0002-0103-4275).
-    (_in review_).
-    Wetland topography drives salinity resilience in freshwater tidal ecosystems.
-    _Ecological Engineering_.
+    _Environmental Changes_,
+    **21**:101323.
+    doi:[10.1016/j.envc.2025.101323](https://doi.org/10.1016/j.envc.2025.101323).
 
 ### Conferences
 The following presentations at conferences include aspects of this PhD research (_presenter in **bold**_):
