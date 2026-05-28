@@ -102,7 +102,7 @@ The following peer-reviewed articles include aspects of this PhD research:
     doi:[10.1007/s12237-024-01359-2](https://doi.org/10.1007/s12237-024-01359-2).
     
  1. [Brunink, S.](https://orcid.org/0009-0007-4626-8909), and
-    [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657).
+    [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657)
     (2024).
     Predicting ecotopes from hydrodynamic model data:
         Towards an ecological assessment of nature-based solutions.
@@ -122,7 +122,7 @@ The following peer-reviewed articles include aspects of this PhD research:
     [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
     [Hulscher, S.J.M.H.](https://orcid.org/0000-0002-8734-1830),
     [Bouma, T.J.](https://orcid.org/0000-0001-7824-7546), and
-    [van de Koppel, J.](https://orcid.org/0000-0002-0103-4275).
+    [van de Koppel, J.](https://orcid.org/0000-0002-0103-4275)
     (2025).
     Wetland topography drives salinity resilience in freshwater tidal ecosystems.
     _Ecological Engineering_,
@@ -134,7 +134,7 @@ The following peer-reviewed articles include aspects of this PhD research:
     [Keyzer, L.M.](https://orcid.org/0000-0002-1501-163X),
     Iglesias, S.R.,
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
-    [van Koningsveld, M.](https://orcid.org/0000-0001-6161-9681).
+    [van Koningsveld, M.](https://orcid.org/0000-0001-6161-9681)
     (2025).
     Trading off dissimilar stakeholders interests:
     Changing the bed level of the main shipping channel of the Rhine-Meuse Delta while considering freshwater 
@@ -147,7 +147,7 @@ The following peer-reviewed articles include aspects of this PhD research:
    [Fivash, G.S.](https://orcid.org/0000-0002-0767-7036),
    [Gerritsma, A.](https://orcid.org/0000-0002-2434-5893),
    [Geraeds, M.](https://orcid.org/0000-0001-6643-9073), and
-   [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469).
+   [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469)
    (2026).
    Socio-ecological evaluation of estuary-scale interventions:
    Case study of reopening the Haringvliet, the Netherlands.
@@ -219,7 +219,7 @@ The following presentations at conferences include aspects of this PhD research 
     [Kranenburg, W.M.](https://orcid.org/0000-0002-4736-7913),
     [Huismans, Y.](https://orcid.org/0000-0001-6537-6111),
     [Pietrzak, J.D.](https://orcid.org/0000-0003-1285-5391), and
-    [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657).
+    [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657)
     (March 14, 2024).
     Tidal phase differences in multi-branch systems and their effect on salinity intrusion.
     _NCK Days 2024_.
@@ -229,7 +229,7 @@ The following presentations at conferences include aspects of this PhD research 
     [Manuel, L.A.](https://orcid.org/0000-0001-5424-1270),
     [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469),
     [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257), and
-    [Meselhe, E.A.](https://orcid.org/0000-0002-5832-8864).
+    [Meselhe, E.A.](https://orcid.org/0000-0002-5832-8864)
     (March 14, 2024).
     When and where to construct a sill to mitigate estuarine salt intrusion.
     _NCK Days 2024_.
@@ -237,7 +237,7 @@ The following presentations at conferences include aspects of this PhD research 
     
  1. [**Hendrickx, G.G.**](https://orcid.org/0000-0001-9523-7657),
     [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469), and
-    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257).
+    [Aarninkhof, S.G.J.](https://orcid.org/0000-0002-4591-0257)
     (September 13, 2024).
     Engineering guidelines for nature-based solutions to mitigate salt intrusion.
     _International Conference on Coastal Engineering 2024_.
@@ -265,7 +265,7 @@ The following software and datasets have been produced as part of this PhD resea
     doi:[10.4121/bccbe767-667b-40ba-a4d1-d8fcad900772](https://doi.org/10.4121/bccbe767-667b-40ba-a4d1-d8fcad900772).
     
  1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657), and
-    [Brunink, S.](https://orcid.org/0009-0007-4626-8909).
+    [Brunink, S.](https://orcid.org/0009-0007-4626-8909)
     (2023).
     _EMMA: Ecotope-Map Maker based on Abiotics_.
     4TU.ResearchData. Software.
@@ -294,7 +294,7 @@ The following software and datasets have been produced as part of this PhD resea
     [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
     [Hulscher, S.J.M.H.](https://orcid.org/0000-0002-8734-1830),
     [Bouma, T.J.](https://orcid.org/0000-0001-7824-7546), and
-    [van de Koppel, J.](https://orcid.org/0000-0002-0103-4275).
+    [van de Koppel, J.](https://orcid.org/0000-0002-0103-4275)
     (2024).
     Dataset underlying the study
         ''Wetland topography drives salinity resilience in freshwater tidal ecosystems.''
