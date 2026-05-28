@@ -143,6 +143,18 @@ The following peer-reviewed articles include aspects of this PhD research:
     **21**:101323.
     doi:[10.1016/j.envc.2025.101323](https://doi.org/10.1016/j.envc.2025.101323).
 
+1. [Hendrickx, G.G.](https://orcid.org/0000-0001-9523-7657),
+   [Fivash, G.S.](https://orcid.org/0000-0002-0767-7036),
+   [Gerritsma, A.](https://orcid.org/0000-0002-2434-5893),
+   [Geraeds, M.](https://orcid.org/0000-0001-6643-9073), and
+   [Pearson, S.G.](https://orcid.org/0000-0002-3986-4469).
+   (2026).
+   Socio-ecological evaluation of estuary-scale interventions:
+   Case study of reopening the Haringvliet, the Netherlands.
+   _Ecological Engineering_,
+   **230**:108031.
+   doi:[10.1016/j.ecoleng.2026.108031](https://doi.org/10.1016/j.ecoleng.2026.108031).
+
 ### Conferences
 The following presentations at conferences include aspects of this PhD research (_presenter in **bold**_):
 
